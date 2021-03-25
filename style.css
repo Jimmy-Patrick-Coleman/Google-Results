@@ -1,0 +1,117 @@
+body {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0% 0%;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-size: auto;
+    color: rgb(32, 33, 36);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+body, h1 {
+font-family: arial,sans-serif;
+font-size: 14px;
+}
+#big {
+    clear: both;
+min-width: 833px;
+margin-left: 0;
+padding-top: 20px;
+box-sizing: border-box;
+position: relative;
+min-height: 100vh;
+}
+#about-div {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0% 0%;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-size: auto;
+    box-sizing: border-box;
+    color: rgb(32, 33, 36);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    min-width: 1261px;
+    width: 1261px
+}
+#res-stats {
+    color: rgb(112, 117, 122);
+font-family: Google Sans, arial, sans-serif;
+font-size: 14px;
+line-height: 43px;
+overflow: hidden;
+overflow-x: hidden;
+overflow-y: hidden;
+padding-bottom: 0px;
+padding-right: 8px;
+padding-top: 0px;
+text-overflow: ellipsis;
+white-space: nowrap
+}
+#h1 {
+    clip: rect(1px, 1px, 1px, 1px);
+color: rgb(32, 33, 36);
+font-family: arial, sans-serif;
+font-size: 14px;
+font-weight: 400;
+height: 1px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+overflow: hidden;
+overflow-x: hidden;
+overflow-y: hidden;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+position: absolute;
+user-select: none;
+white-space: nowrap;
+width: 1px;
+z-index: -1000
+}
+#main-div {
+clear: both;
+position: relative;
+margin-right: 264px;
+margin-left: 180px;
+width: 652px;
+}
+#footer-div {
+    font-family: arial,sans-serif;
+    visibility: visible;
+    line-height: 15px;
+    color: #70757a;
+    font-size: 14px;
+}
+#uk-div {
+    color: rgba(0, 0, 0, 0.54);
+font-family: arial, sans-serif;
+font-size: 14px;
+line-height: 40px;
+margin-left: 180px;
+padding-left: 27px;
+}
+#footer-link-div {
+    color: rgb(32, 33, 36);
+font-family: arial, sans-serif;
+font-size: 14px;
+line-height: 40px;
+margin-left: -27px;
+}
